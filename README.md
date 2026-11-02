@@ -57,9 +57,9 @@ Once completed, users will be able to open the RunLog website and enter informat
 
 The following features are planned for future versions:
 
-- [ ] User accounts and authentication
-- [ ] Integration with Strava or other fitness tracking services
-- [ ] Advanced analytics, including personal records and pace predictions
+      User accounts and authentication
+      Integration with Strava or other fitness tracking services
+      Advanced analytics, including personal records and pace predictions
 
 ## Author
 
