@@ -32,7 +32,14 @@ The system will use a Java backend to process workout data and a website to disp
 
 ## Setup
 
-RunLog is currently in development, so the application is not yet runnable.
+The current version has a console program for logging runs and viewing their history. With Java installed, compile and run it from the project folder:
+
+```bash
+javac src/Run.java src/RunLog.java
+java -cp src RunLog
+```
+
+Choose 1 to log a run, 2 to view all logged runs and their paces, or 3 to exit. Runs are kept in memory for the current session.
 
 Once the initial Spring Boot application is implemented, the planned setup process will be:
 
